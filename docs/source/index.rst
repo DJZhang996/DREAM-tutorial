@@ -8,5 +8,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Spleen dataset
+   CRCLM dataset
