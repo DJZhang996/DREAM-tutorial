@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+Welcome to DREAM’s documentation!
 =======================================
 
 This GitHub template includes fictional Python library
