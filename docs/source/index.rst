@@ -19,7 +19,7 @@ Interpretable attribution of clinical phenotypes to condition-specific microenvi
 Overview of DREAM
 ====================
 
-.. image:: ../Figures/Fig1-f_new.tif
+.. image:: ../Figures/Fig1-f_new.jpg
    :width: 1400
 
 
