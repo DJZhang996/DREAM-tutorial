@@ -10,7 +10,7 @@ Interpretable attribution of clinical phenotypes to condition-specific microenvi
 
 .. toctree::
    :maxdepth: 1
-
+   :titlesonly:
    
    RUN_Spleen
    RUN_CRCLM
