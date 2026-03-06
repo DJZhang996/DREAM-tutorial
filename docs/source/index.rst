@@ -12,8 +12,8 @@ Interpretable attribution of clinical phenotypes to condition-specific microenvi
    :maxdepth: 1
 
    Installation
-   Spleen dataset
-   CRCLM dataset
+   RUN_Spleen
+   RUN_CRCLM
 
 
 Overview of DREAM
